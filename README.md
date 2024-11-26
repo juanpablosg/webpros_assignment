@@ -7,7 +7,7 @@ This guide provides step-by-step instructions to make a ham and cheese sandwich.
 Gather the following ingredients:
 - Two slices of bread
 - Two slices of ham
-- One or two slices of cheese
+- Two slices of cheese
 - Two leaves of lettuce
 - Three slices of tomato
 - Two rings of onion
@@ -29,7 +29,8 @@ To make the sandwich:
     - The tomato slices
     - One slice of ham
     - One slice of cheese
-    - Another slice of ham
+    - The second slice of ham
+    - The second slice of cheese
     - The onion rings
     - One leaf of lettuce
 4. Place the remaining slice of bread on top.
